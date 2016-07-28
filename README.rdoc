@@ -1,28 +1,23 @@
-== README
+== PokeMap!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project will provide an interactive map of San Francisco,
 
-Things you may want to cover:
+Actually, it's an excuse to make cheap jokes about this city.
 
-* Ruby version
+Pokemon you will see:
 
-* System dependencies
+* Cracklemon
 
-* Configuration
+* Domtop
 
-* Database creation
+* Subcub
 
-* Database initialization
+* Bongrip
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Courgarchu
 
 * ...
 
+------
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Project is in early stage, not sure if I will let users submit their own Pokemon - it could get ugly very quick. Will likely allow submissions, which I will approve before adding.
